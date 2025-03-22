@@ -14,6 +14,11 @@
 📌 **Google Cloud Platform (GCP)** – deploying and scaling services in the cloud.  
 📌 **Advanced system design** – making high-load apps more efficient.  
 
+### Working on :
+
+- [Resume Checker Backend](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their applications.
+- [Resume Checker Frontend](https://github.com/BykaWF/resume-checker-frontend) - frontend part of the Resume Checker project
+
 ### 📬 Connect with Me  
 💼 [LinkedIn](www.linkedin.com/in/yaroslav-prozorov) | 📝 [Personal Blog](https://byka.hashnode.dev/) 
 <!--
