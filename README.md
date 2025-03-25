@@ -18,11 +18,13 @@
 
 - [Resume Checker Backend](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their 
 
-### [LeetCode Extension](https://github.com/BykaWF/reminder-extension/tree/main) 
+### LeetCode Extension  
 
-A Chrome extension that helps you practice LeetCode problems using spaced repetition principles.
+A Chrome extension that helps you practice LeetCode problems using spaced repetition principles. [Project Link](https://github.com/BykaWF/reminder-extension/tree/main)
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Click%20to%20Install-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/leetcode-review-reminder/glhcifpbhablgopgcmdbdaihkobojnbp)
+
+
 
 ### 📬 Connect with Me  
 💼 [LinkedIn](www.linkedin.com/in/yaroslav-prozorov) | 📝 [Personal Blog](https://byka.hashnode.dev/) 
