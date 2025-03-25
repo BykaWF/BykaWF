@@ -16,8 +16,13 @@
 
 ### Working on :
 
-- [Resume Checker Backend](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their applications.
-- [Resume Checker Frontend](https://github.com/BykaWF/resume-checker-frontend) - frontend part of the Resume Checker project
+- [Resume Checker Backend](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their 
+
+### [LeetCode Extension](https://github.com/BykaWF/reminder-extension/tree/main) 
+
+A Chrome extension that helps you practice LeetCode problems using spaced repetition principles.
+
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Click%20to%20Install-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/leetcode-review-reminder/glhcifpbhablgopgcmdbdaihkobojnbp)
 
 ### 📬 Connect with Me  
 💼 [LinkedIn](www.linkedin.com/in/yaroslav-prozorov) | 📝 [Personal Blog](https://byka.hashnode.dev/) 
