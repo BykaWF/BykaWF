@@ -16,7 +16,7 @@
 
 ### Working on :
 
-- [Resume Checker Backend](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their 
+- [Resume Checker](https://github.com/BykaWF/resume-checker) - is an AI-powered application that analyzes resumes and detects common mistakes to help job seekers improve their 
 
 ### LeetCode Extension  
 
